@@ -1,0 +1,15 @@
+User ---  Register and Login
+        
+          Select points on image
+
+
+
+Admin --- Login
+
+          View Users and authorize
+
+
+          Add Documents with image
+
+
+          Add products posts with image
